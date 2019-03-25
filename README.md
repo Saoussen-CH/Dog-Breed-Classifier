@@ -94,7 +94,7 @@ cd Dog-Breed-Classifier
 pip install -r requirements.txt
 ```
 
-4. That's it!, Now run the project using following command, check you default browser and open dlnd_face_generation.ipynb file
+4. That's it!, Now run the project using following command, check you default browser and open dog_app.ipynb file
 
 ```
 jupyter notebook
